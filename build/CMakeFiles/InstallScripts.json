@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/doukou-raz/BunaiRobocon/build/cmake_install.cmake",
+		"/home/doukou-raz/BunaiRobocon/build/src/cmake_install.cmake",
+		"/home/doukou-raz/BunaiRobocon/build/main/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
